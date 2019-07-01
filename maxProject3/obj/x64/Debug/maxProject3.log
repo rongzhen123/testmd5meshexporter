@@ -1,0 +1,34 @@
+﻿生成启动时间为 2019/7/1 13:37:13。
+     1>项目“D:\Reference\Code\3DSMAX\maxProject3\maxProject3\maxProject3.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+       ResourceCompile:
+         所有输出均为最新。
+       Link:
+         D:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Program Files\Autodesk\3ds Max 2014\plugins\maxProject3.dle" /NOLOGO /LIBPATH:"C:\Program Files\Autodesk\3ds Max 2014 SDK\lib\x64\Debug\\" core.lib geom.lib gfx.lib mesh.lib maxutil.lib maxscrpt.lib paramblk2.lib igame.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /DEF:"maxProject3.def" /MANIFEST /ManifestFile:"D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.dle.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Program Files\Autodesk\3ds Max 2014\plugins\maxProject3.dle.pdb" /PDBSTRIPPED:"C:\Program Files\Autodesk\3ds Max 2014 SDK\\pdb\x64\Debug\maxProject3.dle.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE:NO /NXCOMPAT /IMPLIB:"D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\\maxProject3.lib" /MACHINE:X64 /DLL D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.res
+         D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.obj
+         D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\DllEntry.obj
+            正在创建库 D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\\maxProject3.lib 和对象 D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\\maxProject3.exp
+         maxProject3.vcxproj -> C:\Program Files\Autodesk\3ds Max 2014\plugins\maxProject3.dle
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Program Files\Autodesk\3ds Max 2014\plugins\maxProject3.dle;#2" /manifest D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.dle.intermediate.manifest
+       PostBuildEvent:
+         "C:\Program Files\Autodesk\3ds Max 2014 SDK\tools\RunMUIRCT.exe" "C:\Program Files\Autodesk\3ds Max 2014\plugins\\" maxProject3.dle
+         :VCEnd
+         ==== RunMUIRCT: Start ====
+         RunMUIRCT: WARNING - Could not find version info in file: C:\Program Files\Autodesk\3ds Max 2014\plugins\maxProject3.dle
+         
+         There is no version resource in the file 
+         Language neutral file (C:\Program Files\Autodesk\3ds Max 2014\plugins\en-US\maxProject3.dle.ln) successfully created
+         MUI file (C:\Program Files\Autodesk\3ds Max 2014\plugins\en-US\maxProject3.dle.mui) successfully created 
+         ==== RunMUIRCT: Successs ====
+       FinalizeBuildStatus:
+         正在删除文件“D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.unsuccessfulbuild”。
+         正在对“D:\Reference\Code\3DSMAX\maxProject3\maxProject3\\obj\x64\Debug\maxProject3.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\Reference\Code\3DSMAX\maxProject3\maxProject3\maxProject3.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.59
